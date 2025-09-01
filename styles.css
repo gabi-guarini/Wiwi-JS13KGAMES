@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-#main-canvas {
+.main-canvas {
     border: 1px solid black;
     background: lightblue;
     position:absolute;
